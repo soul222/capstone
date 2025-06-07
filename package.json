@@ -16,7 +16,7 @@
     "supabase",
     "aws"
   ],
-  "author": "Your Name",
+  "author": "Soultan Amirul Mukminin",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
