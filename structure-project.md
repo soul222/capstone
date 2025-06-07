@@ -2,35 +2,35 @@ batik-api/
 ├── src/
 │   ├── config/
 │   │   ├── database.js
-│   │   ├── aws.js
-│   │   └── supabase.js
+│   │   ├── aws.js sudah
+│   │   └── supabase.js sudah
 │   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── motifController.js
-│   │   ├── historyController.js
-│   │   └── predictionController.js
+│   │   ├── authController.js sudah
+│   │   ├── motifController.js sudah
+│   │   ├── historyController.js sudah
+│   │   └── predictionController.js sudah
 │   ├── middleware/
-│   │   ├── auth.js
+│   │   ├── auth.js sudah
 │   │   └── validation.js
 │   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── motifRoutes.js
-│   │   ├── historyRoutes.js
-│   │   └── predictionRoutes.js
+│   │   ├── authRoutes.js sudah
+│   │   ├── motifRoutes.js sudah
+│   │   ├── historyRoutes.js sudah
+│   │   └── predictionRoutes.js sudah
 │   ├── services/
-│   │   ├── authService.js
-│   │   ├── motifService.js
-│   │   ├── historyService.js
-│   │   ├── predictionService.js
+│   │   ├── authService.js sudah
+│   │   ├── motifService.js sudah
+│   │   ├── historyService.js sudah
+│   │   ├── predictionService.js sudah
 │   │   └── s3Service.js
 │   ├── utils/
-│   │   ├── helpers.js
-│   │   └── constants.js
+│   │   ├── helpers.js sudah
+│   │   └── constants.js sudah
 │   ├── data/
-│   │   └── dictionary.js
-│   └── app.js
+│   │   └── dictionary.js sudah
+│   └── app.js sudah
 ├── sql/
-│   └── schema.sql
+│   └── schema.sql sudah
 ├── .env
-├── package.json
-└── server.js
+├── package.json 
+└── server.js sudah
